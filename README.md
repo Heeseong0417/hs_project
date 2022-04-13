@@ -59,6 +59,6 @@ pip install jsonpath-ng
 
 
 
-# 세번째 탭 메뉴 - > renderer\conponent\Excels
+# 세번째 탭 메뉴 - > renderer/conponent\/Excels
   ## [id].tsx 경로 -> run_test
-   ## index_ex.tsx 경로 -> renderer\pages\schema
+   ## index_ex.tsx 경로 -> renderer/pages/schema
